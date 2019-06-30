@@ -1,0 +1,5 @@
+.env
+inventory.txt
+inventory.csv
+batch.log
+lamgda-output.json
